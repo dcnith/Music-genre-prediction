@@ -4,8 +4,8 @@ Prediction of music genre
 This was a kaggle competition
 
 ## Files
-# train.csv - the training set
-# test.csv - the test set
+### train.csv - the training set
+### test.csv - the test set
 sample_submission.csv - a sample submission file in the correct format
 meta_data1.csv - supplemental information about the data
 meta_data2.csv - supplemental information about the data
