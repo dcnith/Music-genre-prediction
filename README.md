@@ -6,11 +6,11 @@ This was a kaggle competition
 ## Files
 ### train.csv - the training set
 ### test.csv - the test set
-sample_submission.csv - a sample submission file in the correct format
-meta_data1.csv - supplemental information about the data
-meta_data2.csv - supplemental information about the data
+### sample_submission.csv - a sample submission file in the correct format
+### meta_data1.csv - supplemental information about the data
+### meta_data2.csv - supplemental information about the data
 
-train.csv
+### train.csv
 song_id - This is a unique identifier for each song, likely used for data management and reference.
 album - The name of the album to which the song belongs, providing information about its grouping within a collection.
 artist - The name of the artist or artists who performed the song, indicating the creators of the music.
@@ -18,18 +18,18 @@ lyrics - The lyrics of the song, serve as the textual content for analysis and i
 track - The name of the song or track, identifying the specific musical composition.
 target - The target feature, which is the genre of the song, will likely be used as the classification label in the dataset.
 
-test.csv
+### test.csv
 song_id - This is a unique identifier for each song, likely used for data management and reference.
 album - The name of the album to which the song belongs, providing information about its grouping within a collection.
 artist - The name of the artist or artists who performed the song, indicating the creators of the music.
 lyrics - The lyrics of the song, serve as the textual content for analysis and insights into the song's words and theme.
 track - The name of the song or track, identifying the specific musical composition.
 
-sample_submission.csv
+### sample_submission.csv
 song_id - This is a unique identifier for each song, likely used for data management and reference.
 target - The target feature, which is the genre of the song, will likely be used as the classification label in the dataset.
 
-meta_data1.csv
+### meta_data1.csv
 id - Unique identifier for each record in the dataset.
 adaptibility - A measure of the song's adaptability, though additional details are needed for a specific definition.
 danceability - A measure of how suitable the song is for dancing, based on factors like tempo, rhythm stability, beat strength, and overall sound qualities.
@@ -49,7 +49,7 @@ tempo - The tempo or beats per minute (BPM) of the song, indicating its speed or
 time_signature - The time signature of the song, specifying the number of beats in each bar.
 total_tracks - The total number of tracks in the album to which the song belongs.
 
-meta_data2.csv
+### meta_data2.csv
 id - Unique identifier for each record in the dataset.
 a1 to a50 - These features require additional context or information to provide specific definitions or explanations.
 
