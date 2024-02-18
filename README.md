@@ -11,8 +11,8 @@ This was a kaggle competition
 ### meta_data2.csv - supplemental information about the data
 
 ### train.csv
-song_id - This is a unique identifier for each song, likely used for data management and reference.__
-album - The name of the album to which the song belongs, providing information about its grouping within a collection.__
+song_id - This is a unique identifier for each song, likely used for data management and reference.\
+album - The name of the album to which the song belongs, providing information about its grouping within a collection.\
 artist - The name of the artist or artists who performed the song, indicating the creators of the music.
 lyrics - The lyrics of the song, serve as the textual content for analysis and insights into the song's words and theme.
 track - The name of the song or track, identifying the specific musical composition.
