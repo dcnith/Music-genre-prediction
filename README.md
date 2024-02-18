@@ -51,5 +51,5 @@ This was a kaggle competition
 
 ### meta_data2.csv
 **id** - Unique identifier for each record in the dataset.\
-**a1 to a50** - These features require additional context or information to provide specific definitions or explanations.\
+**a1 to a50** - These features require additional context or information to provide specific definitions or explanations.
 
