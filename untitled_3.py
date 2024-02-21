@@ -855,22 +855,6 @@ y_pred = cross_val_predict(rf, X_new, y, cv=skfold)
 conf_mat = confusion_matrix(y, y_pred)
 conf_mat
 
-# =============================================================================
-# ################ AdaBoost
-# =============================================================================
-
-from sklearn.ensemble import AdaBoostClassifier
-abc = AdaBoostClassifier(n_estimators=50, learning_rate=1, random_state=0)
-scores=cross_val_score(abc,X_new,y,cv=skfold)
-scores
-print(np.mean(scores))
-print("Accuracy: %.3f%% (%.3f%%)" % (scores.mean()*100.0, scores.std()*100.0))
-
-y_pred = cross_val_predict(abc, X_new, y, cv=skfold)
-conf_mat = confusion_matrix(y, y_pred)
-conf_mat
-
-
 
 
 
