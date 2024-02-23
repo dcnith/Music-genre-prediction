@@ -53,3 +53,6 @@ This was a kaggle competition
 **id** - Unique identifier for each record in the dataset.\
 **a1 to a50** - These features require additional context or information to provide specific definitions or explanations.
 
+
+
+
