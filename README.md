@@ -1,7 +1,7 @@
 # Music-genre-prediction
-Prediction of music genre
+Prediction of music genre:
 
-This was a kaggle competition
+This was a Kaggle competition
 
 ## Files
 ### train.csv - the training set
